@@ -1,0 +1,19 @@
+When do you redistribute your hand?
+answer_question I do redistribute()=None when ("my total is even and my left hand is out and not my right hand is out and not my right hand outs my opponent's left hand and not my right hand outs my opponent's right hand ---or--- my total is even and not my left hand is out and my right hand is out and not my left hand outs my opponent's left hand and not my left hand outs my opponent's right hand", 0.392652).
+ Time to answer (s): 0.419968
+
+When do you add left to left?
+answer_question I do add_left_left()=None when ("my left hand outs my opponent's left hand ---or--- not my left hand is out and not my right hand outs my opponent's left hand and not my left hand outs my opponent's right hand and not my right hand outs my opponent's right hand", 0.145982).
+ Time to answer (s): 0.201984
+
+When do you add left to right?
+answer_question I do add_left_right()=None when ("not my left hand outs my opponent's left hand and my left hand outs my opponent's right hand ---or--- not my left hand is out and not my left hand outs my opponent's left hand and not my right hand outs my opponent's left hand and not my right hand outs my opponent's right hand", 1.535304).
+ Time to answer (s): 1.596275
+
+When do you add right to left?
+answer_question I do add_right_left()=None when ("my left hand is out and not my right hand is out and not my right hand outs my opponent's right hand ---or--- my right hand outs my opponent's left hand", 0.142073).
+ Time to answer (s): 0.181016
+
+When do you add right to right?
+answer_question I do add_right_right()=None when ("not my right hand outs my opponent's left hand and my right hand outs my opponent's right hand ---or--- my left hand is out and not my right hand is out and not my right hand outs my opponent's left hand", 0.626795).
+ Time to answer (s): 0.662298

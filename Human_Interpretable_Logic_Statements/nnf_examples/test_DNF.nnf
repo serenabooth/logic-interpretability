@@ -1,0 +1,9 @@
+c an example of a DNF statement 
+nnf 7 6 4
+L 1
+L 2
+L -3
+L 4
+A 2 0 1 
+A 2 2 3
+O 2 2 4 5 

@@ -1,0 +1,9 @@
+c an example of a d-NNF (deterministic) statement 
+nnf 7 6 2
+L -1
+L 2 
+A 2 0 1
+L -2 
+L 1
+A 2 3 4 
+O 0 2 2 5

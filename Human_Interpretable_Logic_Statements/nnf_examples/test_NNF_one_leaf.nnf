@@ -1,0 +1,20 @@
+c nnf 7 6 4
+c L 1 
+c L 2 
+c L -3
+c L 4 
+c O 0 2 3 2 
+c A 2 0 1 
+c A 2 2 4
+c O 2 2 5 6
+c 
+c nnf 6 6 4
+c L 2
+c L 3
+c L 4
+c O 0 2 0 1
+c A 2 3 2
+c L 1
+c O 0 2 5 4
+nnf 1 0 1
+L 1 

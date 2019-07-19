@@ -1,0 +1,22 @@
+c an example of an sNNF (smooth nnf) statement 
+nnf 20 19 3
+L 1 
+L 2 
+L 1 
+L 3
+L -1 
+L 3
+L 1 
+L 2 
+L 1 
+L 2 
+A 2 2 3 
+A 2 4 5
+O 0 2 10 11
+A 2 6 7 
+A 2 8 9 
+A 3 0 1 12
+L 3
+O 0 2 13 14
+A 2 16 17 
+O 2 2 15 18 

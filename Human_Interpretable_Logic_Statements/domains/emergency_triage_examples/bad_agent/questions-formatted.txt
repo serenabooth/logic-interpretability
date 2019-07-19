@@ -1,0 +1,2 @@
+immediate: ((2 and 4 and 6 ) or ( 2 and 4 and 5))
+urgent: ((2 and  -4 ) or (  -2 and 3 ) or ( 2 and  -5 and  -6))

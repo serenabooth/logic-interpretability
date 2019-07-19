@@ -1,0 +1,5 @@
+idx: 1 - a vehicle is to my left
+idx: 2 - a vehicle is to my right
+idx: 3 - a vehicle is in front of me
+idx: 4 - a vehicle is behind me
+idx: 5 - the next exit is 42

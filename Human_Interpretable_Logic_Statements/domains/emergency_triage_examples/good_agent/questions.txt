@@ -1,0 +1,7 @@
+When do you triage: immediate?
+answer_question I do immediate()=None when ('patient is breathing and not respiration count is between 10 and 30 ---or--- not patient is breathing and patient is able to breathe after opening airway ---or--- patient is breathing and not capillary refill takes less than 2 seconds and not pulse is between 40 and 70', 0.011854).
+ Time to answer (s): 0.018306
+
+When do you triage: urgent?
+answer_question I do urgent()=None when ('patient is breathing and respiration count is between 10 and 30 and pulse is between 40 and 70 ---or--- patient is breathing and respiration count is between 10 and 30 and capillary refill takes less than 2 seconds', 0.004055).
+ Time to answer (s): 0.010453

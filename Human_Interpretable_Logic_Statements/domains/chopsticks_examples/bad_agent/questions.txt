@@ -1,0 +1,15 @@
+When do you add left to left?
+answer_question I do add_left_left()=None when ("not my left hand is out and not my left hand outs my opponent's left hand ---or--- my left hand is out and not my right hand is out", 215.664415).
+ Time to answer (s): 215.773551
+
+When do you add left to right?
+answer_question I do add_left_right()=None when ("my left hand outs my opponent's left hand and not my left hand outs my opponent's right hand ---or--- my left hand is out and not my right hand is out and not my right hand outs my opponent's left hand", 4.878761).
+ Time to answer (s): 4.933021
+
+When do you add right to left?
+answer_question I do add_right_left()=None when ("not my left hand is out and my right hand is out ---or--- my left hand outs my opponent's left hand and not my right hand outs my opponent's left hand and my left hand outs my opponent's right hand", 4.69705).
+ Time to answer (s): 4.732861
+
+When do you add right to right?
+answer_question I do add_right_right()=None when ("my right hand is out and not my left hand outs my opponent's left hand and my left hand outs my opponent's right hand ---or--- my right hand is out and my left hand outs my opponent's left hand and not my left hand outs my opponent's right hand ---or--- my total is even and not my left hand is out and my right hand is out and not my left hand outs my opponent's left hand", 1.959756).
+ Time to answer (s): 1.983638

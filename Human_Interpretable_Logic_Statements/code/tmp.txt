@@ -1,0 +1,45 @@
+c
+l DNF
+f ((not( 3 ) and not( 4 ) and not( 5 )) or ( 2  and not( 4 )) or (not( 1 ) and  2 ))
+s 10
+p [<Languages.NNF: 1>, <Languages.fNNF: 5>, <Languages.DNF: 12>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.dDNNF: 6>, <Languages.ODNF: 17>]
+c
+l cnf
+f ((not( 2 ) or  3 ) and (not( 4 ) or  3 ) and (not( 5 ) or  3 ))
+s 10
+p [<Languages.NNF: 1>, <Languages.fNNF: 5>, <Languages.CNF: 13>, <Languages.dNNF: 3>]
+c
+l dDNNF
+f (( 3  or (not( 3 ) and  2 )) and  1  and  4 )
+s 7
+p [<Languages.NNF: 1>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.sNNF: 4>, <Languages.dDNNF: 6>, <Languages.sdDNNF: 7>]
+c
+l epsinv cnf
+f ((not( 2 ) or  3 ) and (not( 4 ) or  3 ) and (not( 5 ) or  3 ))
+s 9
+p [<Languages.NNF: 1>, <Languages.fNNF: 5>, <Languages.CNF: 13>, <Languages.dNNF: 3>]
+c
+l epsinv dnf
+f (( 3  nand  4  nand  5 ) or ( 2  and not( 4 )) or (not( 1 ) and  2 ))
+s 9
+p []
+c
+l epsinv ddnnf
+f (( 3  or (not( 3 ) and  2 )) and  1  and  4 )
+s 7
+p [<Languages.NNF: 1>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.sNNF: 4>, <Languages.dDNNF: 6>, <Languages.sdDNNF: 7>]
+c
+l sdDNNF
+f (( 1  or not( 1 )) and ( 2  or not( 2 )) and ( 3  or ( False  and not( 3 ))) and ( 4  or not( 4 )))
+s 1
+p [<Languages.NNF: 1>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.sNNF: 4>, <Languages.dDNNF: 6>, <Languages.sdDNNF: 7>]
+c
+l ODNF
+f ((not( 3 ) and not( 4 ) and not( 5 )) or ( 2  and not( 4 )) or (not( 1 ) and  2 ))
+s 10
+p [<Languages.NNF: 1>, <Languages.fNNF: 5>, <Languages.DNF: 12>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.dDNNF: 6>, <Languages.ODNF: 17>]
+c
+l MODS
+f ((not( 3 ) and not( 4 ) and not( 5 ) and  1  and  2 ) or (not( 3 ) and not( 4 ) and not( 5 ) and  1  and not( 2 )) or (not( 3 ) and not( 4 ) and not( 5 ) and not( 1 ) and  2 ) or (not( 3 ) and not( 4 ) and not( 5 ) and not( 1 ) and not( 2 )) or ( 2  and not( 4 ) and  1  and  3  and  5 ) or ( 2  and not( 4 ) and  1  and  3  and not( 5 )) or ( 2  and not( 4 ) and  1  and not( 3 ) and  5 ) or ( 2  and not( 4 ) and  1  and not( 3 ) and not( 5 )) or ( 2  and not( 4 ) and not( 1 ) and  3  and  5 ) or ( 2  and not( 4 ) and not( 1 ) and  3  and not( 5 )) or ( 2  and not( 4 ) and not( 1 ) and not( 3 ) and  5 ) or ( 2  and not( 4 ) and not( 1 ) and not( 3 ) and not( 5 )) or (not( 1 ) and  2  and  3  and  4  and  5 ) or (not( 1 ) and  2  and  3  and  4  and not( 5 )) or (not( 1 ) and  2  and  3  and not( 4 ) and  5 ) or (not( 1 ) and  2  and  3  and not( 4 ) and not( 5 )) or (not( 1 ) and  2  and not( 3 ) and  4  and  5 ) or (not( 1 ) and  2  and not( 3 ) and  4  and not( 5 )) or (not( 1 ) and  2  and not( 3 ) and not( 4 ) and  5 ) or (not( 1 ) and  2  and not( 3 ) and not( 4 ) and not( 5 )))
+s 120
+p [<Languages.NNF: 1>, <Languages.fNNF: 5>, <Languages.DNF: 12>, <Languages.DNNF: 2>, <Languages.dNNF: 3>, <Languages.sNNF: 4>, <Languages.dDNNF: 6>, <Languages.sdDNNF: 7>, <Languages.BDD: 8>, <Languages.FBDD: 9>, <Languages.OBDD: 10>, <Languages.OBDD_LT: 11>, <Languages.MODS: 16>, <Languages.ODNF: 17>]

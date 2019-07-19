@@ -1,0 +1,15 @@
+When do you slow down?
+answer_question I do slow_down()=None when ('a vehicle is in front of me and not a vehicle is behind me and not the next exit is 42 ---or--- a vehicle is to my right and the next exit is 42', 0.000553).
+ Time to answer (s): 0.080491
+
+When do you speed up?
+answer_question I do increase_speed()=None when ('a vehicle is to my right and not a vehicle is in front of me and a vehicle is behind me ---or--- not a vehicle is in front of me and not the next exit is 42', 0.000338).
+ Time to answer (s): 0.068804
+
+When do you merge left?
+answer_question I do merge_left()=None when ('not a vehicle is to my left and a vehicle is in front of me and not the next exit is 42 ---or--- not a vehicle is to my left and a vehicle is behind me and not the next exit is 42', 0.000238).
+ Time to answer (s): 0.063251
+
+When do you merge right?
+answer_question I do merge_right()=None when ('not a vehicle is to my right and the next exit is 42 ---or--- a vehicle is to my left and not a vehicle is to my right and a vehicle is in front of me', 0.00034).
+ Time to answer (s): 0.06422

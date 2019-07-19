@@ -1,0 +1,7 @@
+idx: 1 - my total is even
+idx: 2 - my left hand is out
+idx: 3 - my right hand is out
+idx: 4 - my left hand outs my opponent's left hand
+idx: 5 - my right hand outs my opponent's left hand
+idx: 6 - my left hand outs my opponent's right hand
+idx: 7 - my right hand outs my opponent's right hand

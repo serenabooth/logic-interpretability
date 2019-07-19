@@ -1,0 +1,11 @@
+When do you speed up?
+answer_question I do increase_speed()=None when ('a vehicle is to my right and a vehicle is in front of me and a vehicle is behind me ---or--- a vehicle is in front of me and not the next exit is 42', 0.000412).
+ Time to answer (s): 0.043827
+
+When do you merge left?
+answer_question I do merge_left()=None when ('a vehicle is to my left and not a vehicle is in front of me and a vehicle is behind me and not the next exit is 42', 0.000165).
+ Time to answer (s): 0.038919
+
+When do you merge right?
+answer_question I do merge_right()=None when ('not a vehicle is to my left and a vehicle is to my right and not a vehicle is in front of me and not a vehicle is behind me and the next exit is 42', 0.000164).
+ Time to answer (s): 0.035466

@@ -1,0 +1,17 @@
+c statement is sdDNNF
+nnf 15 14 4
+L -1
+L 2 
+A 2 0 1
+L -2 
+L 1
+A 2 3 4 
+O 0 2 2 5
+L 3 
+L 4 
+A 2 7 8 
+L -4 
+L -3 
+A 2 10 11
+O 0 2 9 12
+A 2 6 13

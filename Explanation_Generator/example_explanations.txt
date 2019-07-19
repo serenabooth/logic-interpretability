@@ -1,0 +1,52 @@
+*** Checkpoint 33000 ***
+
+What do you do?
+answer_question I can redistribute my hand, add left to left, random move, add left to right, add right to left, add right to right
+ Time to answer (s): 8.3e-05
+
+When do you redistribute your hand?
+answer_question I do redistribute()=None when ("my total is even and not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile", 0.001303).
+ Time to answer (s): 0.033712
+
+When do you add left to left?
+answer_question I do add_left_left()=None when ("not my right pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile ---or--- my left pile empties opponent's left pile and not my left pile empties opponent's right pile ---or--- not my total is even and my left pile empties opponent's left pile", 0.004779).
+ Time to answer (s): 0.068978
+
+When do you add left to right?
+answer_question I do add_left_right()=None when ("not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my right pile empties opponent's right pile ---or--- my left pile empties opponent's right pile and not my right pile empties opponent's right pile ---or--- not my right pile empties opponent's left pile and my left pile empties opponent's right pile", 0.005281).
+ Time to answer (s): 0.075646
+
+When do you add right to left?
+answer_question I do add_right_left()=None when ("my right pile empties opponent's left pile ---or--- not my left pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile", 0.001207).
+ Time to answer (s): 0.067275
+
+When do you add right to right?
+answer_question I do add_right_right()=None when ("not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my left pile empties opponent's right pile ---or--- not my left pile empties opponent's right pile and my right pile empties opponent's right pile ---or--- not my left pile empties opponent's left pile and my right pile empties opponent's right pile", 0.006471).
+ Time to answer (s): 0.073227
+
+*** Checkpoint 5000 *** 
+
+What do you do?
+answer_question I can redistribute my hand, add left to left, random move, add left to right, add right to left, add right to right
+ Time to answer (s): 0.000105
+
+When do you redistribute your hand?
+answer_question I do redistribute()=None when ("my total is even and not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile", 0.001596).
+ Time to answer (s): 0.026598
+
+When do you add left to left?
+answer_question I do add_left_left()=None when ("not my right pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile ---or--- my left pile empties opponent's left pile and not my left pile empties opponent's right pile ---or--- my left pile empties opponent's left pile and my right pile empties opponent's left pile ---or--- not my total is even and my left pile empties opponent's left pile", 0.005257).
+ Time to answer (s): 0.054138
+
+When do you add left to right?
+answer_question I do add_left_right()=None when ("not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my right pile empties opponent's right pile ---or--- my left pile empties opponent's right pile and not my right pile empties opponent's right pile ---or--- not my right pile empties opponent's left pile and my left pile empties opponent's right pile", 0.00553).
+ Time to answer (s): 0.058121
+
+When do you add right to left?
+answer_question I do add_right_left()=None when ("not my total is even and my right pile empties opponent's left pile ---or--- not my left pile empties opponent's left pile and not my left pile empties opponent's right pile and not my right pile empties opponent's right pile ---or--- my right pile empties opponent's left pile and not my left pile empties opponent's right pile", 0.004919).
+ Time to answer (s): 0.052054
+
+When do you add right to right?
+answer_question I do add_right_right()=None when ("not my left pile empties opponent's left pile and not my right pile empties opponent's left pile and not my left pile empties opponent's right pile ---or--- not my left pile empties opponent's right pile and my right pile empties opponent's right pile ---or--- not my left pile empties opponent's left pile and my right pile empties opponent's right pile", 0.005305).
+ Time to answer (s): 0.059373
+

@@ -1,0 +1,6 @@
+idx: 1 - patient is alert and able to move
+idx: 2 - patient is breathing
+idx: 3 - patient is able to breathe after opening airway
+idx: 4 - respiration count is between 10 and 30
+idx: 5 - capillary refill takes less than 2 seconds
+idx: 6 - pulse is between 40 and 70

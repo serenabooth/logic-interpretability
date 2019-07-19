@@ -1,0 +1,20 @@
+c this is BDD example (from KC Map, figure 2). Note: ordered
+nnf 0 0 0 
+L 1 
+L 1
+L 1
+L 2
+L 3
+O 0 2 0 1
+O 0 2 2 3
+A 3 5 6 4
+L 1
+L -1
+L 1 
+L 3
+L 1
+L 2
+O 0 2 8 9 
+O 0 2 10 11
+A 4 14 15 12 13
+O 0 2 7 16

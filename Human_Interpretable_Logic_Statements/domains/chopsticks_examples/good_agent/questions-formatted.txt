@@ -1,0 +1,5 @@
+redistribute: ((1 and 2 and  -3 and  -5 and  -7 ) or ( 1 and  -2 and 3 and  -4 and  -6))
+add_left_left: ((4 ) or (  -2 and  -5 and  -6 and  -7))
+add_left_right: (( -4 and 6 ) or (  -2 and  -4 and  -5 and  -7))
+add_right_left: ((2 and  -3 and  -7 ) or ( 5))
+add_right_right: (( -5 and 7 ) or ( 2 and  -3 and  -5))

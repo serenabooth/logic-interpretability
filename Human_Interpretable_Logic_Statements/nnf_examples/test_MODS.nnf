@@ -1,0 +1,13 @@
+c this is a MODS sentence
+nnf 11 16 3
+L 1
+L 2 
+L 3 
+L -1 
+L -2 
+L -3 
+A 3 0 1 2
+A 3 2 3 4 
+A 3 1 2 3 
+A 3 3 4 5
+O 0 4 6 7 8 9 
